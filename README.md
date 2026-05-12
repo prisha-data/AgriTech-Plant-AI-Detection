@@ -5,7 +5,7 @@
 This repository contains a professional project focused on the application of **Deep Learning** 
 and **Computer Visions** in the agricultural sector. The project demonstrates a scalable solution for early disease detection in crops to minimize yeild loss.
 
-### Project Report & Documentaiton
+### Project Report & Documentation
 > [!IMPORTANT]
 **GitHub's built-in previewer may fail to display scientific PDFs. To view the full technical report and high-resolution images:**
 
