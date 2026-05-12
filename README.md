@@ -7,9 +7,12 @@ and **Computer Visions** in the agricultural sector. The project demonstrates a 
 
 ### Project Report & Documentaiton
 > [!IMPORTANT]
-> GitHub's previewer often fails for scientific reports. Please use the button below to download the file directly to your computer.
+**GitHub's built-in previewer may fail to display scientific PDFs. To view the full technical report and high-resolution images:**
 
-### 📥 **[CLICK HERE TO DOWNLOAD THE FULL REPORT](https://github.com/prisha-data/AgriTech-Plant-AI-Detection/raw/main/NAARM-MOOC_projects.pdf)**
+1. Look at the file list at the top of this repository.
+2. Click on the file named **`NAARM-MOOC_projects.pdf`**.
+3. Once the file page opens, click the **Download icon** (the arrow pointing down 📥) on the far right side of the gray menu bar.
+4. The PDF will download to your computer for full-resolution viewing.
 
 ## Project Overview 
 ### Project 1: Potato leaf bight detection 
