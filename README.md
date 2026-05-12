@@ -6,9 +6,11 @@ This repository contains a professional project focused on the application of **
 and **Computer Visions** in the agricultural sector. The project demonstrates a scalable solution for early disease detection in crops to minimize yeild loss.
 
 ### Project Report & Documentaiton
-> **IMPORTANT:** GitHub is a code hosting platform and may not able to open scintific PDFs.
->
->  If the preview below does not load or look blurr please **[click here to download and view the full project report](NAARM-MOOC_projects.pdf)**.
+> [!IMPORTANT]
+> GitHub is a code-hosting platform and may struggle to preview scientific PDFs.
+> 
+> **If the preview below does not load or looks blurry, please click the link below to download the full report:**
+> ### 👉 **[DOWNLOAD FULL PROJECT REPORT (PDF)](NAARM-MOOC_projetcs.pdf)**
 
 ## Project Overview 
 ### Project 1: Potato leaf bight detection 
