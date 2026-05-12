@@ -7,7 +7,8 @@ and **Computer Visions** in the agricultural sector. The project demonstrates a 
 
 ### Project Report & Documentaiton
 > [!IMPORTANT]
-> GitHub is a code-hosting platform and may struggle to preview scientific PDFs.
+> **GitHub's preview may fail for scientific PDFs. If you see a "rendering error," please use the link below to download the full report:**
+> ### 📥 **[CLICK HERE TO DOWNLOAD THE FULL PROJECT REPORT (PDF)](./NAARM-MOOC_projects.pdf)**
 > 
 > **If the preview below does not load or looks blurry, please click the link below to download the full report:**
 > ### 👉 **[DOWNLOAD FULL PROJECT REPORT (PDF)](NAARM-MOOC_projetcs.pdf)**
